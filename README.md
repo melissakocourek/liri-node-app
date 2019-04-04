@@ -56,7 +56,7 @@ video: https://drive.google.com/file/d/1OLYCfFdpwuwmroWFPvJ9DHDW8dgijKF2/view?us
 node liri.js do-what-it-says
 LIRI Bot will run spotify-this-song for I Want it That Way. It reads the file random.txt and processes the commands in it (spotify-this-song, I Want it That Way) and runs it.
 
-
+![image](https://user-images.githubusercontent.com/46450079/55568522-76038900-56c5-11e9-85a6-53ca846e9c4c.png)
 video: https://drive.google.com/file/d/1dygplR9xd8omoFQX0Z-sPZchtq9f0ZBa/view?usp=sharing
 
 ## command not found
