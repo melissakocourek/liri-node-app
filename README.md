@@ -4,8 +4,6 @@ LIRI is a Language Interpretation and Recognition Interface.
 
 ## Overview
 
-LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives data in return.
-
 This is a command line app that queries the spotify API, OMDB API and Bands in Town API and neatly returns to users information about their requested film, band, or movie.
 
 ## What Each Command Does
