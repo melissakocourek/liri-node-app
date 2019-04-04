@@ -1,7 +1,5 @@
 # liri-node-app
 
-<<<<<<< HEAD
-=======
 LIRI is a Language Interpretation and Recognition Interface.
 
 ## Overview
@@ -71,4 +69,4 @@ If the command is not one of the ones specified above, the program will print a 
 * DotEnv
 * Moment - Used for date formating
 * Node Spotify API - For spotify-this-song feature
->>>>>>> 172f09f060f3da92d35940a0995e6f87c140e67e
+
