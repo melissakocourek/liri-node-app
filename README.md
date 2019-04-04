@@ -43,8 +43,8 @@ LIRI Bot will run spotify-this-song for I Want it That Way. It reads the file ra
 If the command is not one of the ones specified above, the program will print a menu like so:
 
 ## Built With:
-*node.js - Javascript runtime environment
-*Moment - Used for date formating
-*Node Spotify API - For spotify-this-song feature
-*Bands in Town Events API - for concert-this feature
-*OMDB API - For movie-this feature
+* node.js - Javascript runtime environment
+* Moment - Used for date formating
+* Node Spotify API - For spotify-this-song feature
+* Bands in Town Events API - for concert-this feature
+* OMDB API - For movie-this feature
