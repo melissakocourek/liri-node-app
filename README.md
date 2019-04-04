@@ -19,6 +19,8 @@ LIRI searches **Bands in Town** for concerts, **Spotify** for songs, and **OMDB*
 * Venue location
 * Date of the Event (use moment to format this as "MM/DD/YYYY")
 
+Video: https://drive.google.com/file/d/1xOYgKfHHKfa1I_CymxsXvLGnPD1QvDPR/view?usp=sharing
+
 ## 2.spotify-this-song
 This will show the following information about the song in your terminal/bash window:
 
