@@ -47,7 +47,7 @@ This will output the following information to your terminal/bash window:
 * Plot of the movie.
 * Actors in the movie.
 
-video: https://drive.google.com/file/d/1OLYCfFdpwuwmroWFPvJ9DHDW8dgijKF2/view
+video: https://drive.google.com/file/d/1OLYCfFdpwuwmroWFPvJ9DHDW8dgijKF2/view?usp=sharing
 
 ## 4. do-what-it-says
 node liri.js do-what-it-says
