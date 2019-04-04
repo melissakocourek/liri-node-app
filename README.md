@@ -27,7 +27,7 @@ This will show the following information about the song in your terminal/bash wi
 * A preview link of the song from Spotify
 * The album that the song is from
 
-https://drive.google.com/file/d/1cw_ZowqNajcQe9R8UpIJUqefWrBMoP0g/view
+
 
 
 ## 3. movie-this
