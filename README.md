@@ -8,17 +8,17 @@ List of the commands that are used for this app.
 ## 1.concert-this
  node liri.js concert-this <artist/band name here>
  This will search the Bands in Town Artist Events API for an for an artist and render the following information about each event to the terminal:
-*Name of the venue
-*Venue location
-*Date of the Event (use moment to format this as "MM/DD/YYYY")
+* Name of the venue
+* Venue location
+* Date of the Event (use moment to format this as "MM/DD/YYYY")
 
 ## 2.spotify-this-song
-This will show the following information about the song in your terminal/bash window
+This will show the following information about the song in your terminal/bash window:
 
-*Artist(s)
-*The song's name
-*A preview link of the song from Spotify
-*The album that the song is from
+* Artist(s)
+* The song's name
+* A preview link of the song from Spotify
+* The album that the song is from
 
 
 ## 3. movie-this
