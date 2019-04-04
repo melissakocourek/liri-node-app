@@ -59,8 +59,6 @@ LIRI Bot will run spotify-this-song for I Want it That Way. It reads the file ra
 ![image](https://user-images.githubusercontent.com/46450079/55568522-76038900-56c5-11e9-85a6-53ca846e9c4c.png)
 video: https://drive.google.com/file/d/1dygplR9xd8omoFQX0Z-sPZchtq9f0ZBa/view?usp=sharing
 
-## command not found
-If the command is not one of the ones specified above, the program will print a menu like so:
 
 ## Built With:
 
