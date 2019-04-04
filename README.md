@@ -1,9 +1,16 @@
 # liri-node-app
 
+LIRI is a Language Interpretation and Recognition Interface.
+
+## Overview
+
+LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives data in return.
+
 This is a command line app that queries the spotify API, OMDB API and Bands in Town API and neatly returns to users information about their requested film, band, or movie.
 
-## Commands
-List of the commands that are used for this app. 
+## What Each Command Does
+LIRI searches **Bands in Town** for concerts, **Spotify** for songs, and **OMDB** for movies
+
 
 ## 1.concert-this
  node liri.js concert-this <artist/band name here>
@@ -43,8 +50,15 @@ LIRI Bot will run spotify-this-song for I Want it That Way. It reads the file ra
 If the command is not one of the ones specified above, the program will print a menu like so:
 
 ## Built With:
-* node.js - Javascript runtime environment
+
+### APIS:
+* Spotify
+* OMDB - For movie-this feature
+* Bands In Town - for concert-this feature
+
+### NPM Packages:
+
+* Axios
+* DotEnv
 * Moment - Used for date formating
 * Node Spotify API - For spotify-this-song feature
-* Bands in Town Events API - for concert-this feature
-* OMDB API - For movie-this feature
