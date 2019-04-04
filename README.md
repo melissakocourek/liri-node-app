@@ -49,6 +49,7 @@ This will output the following information to your terminal/bash window:
 * Plot of the movie.
 * Actors in the movie.
 
+![image](https://user-images.githubusercontent.com/46450079/55568449-58362400-56c5-11e9-9873-65aa95054b73.png)
 video: https://drive.google.com/file/d/1OLYCfFdpwuwmroWFPvJ9DHDW8dgijKF2/view?usp=sharing
 
 ## 4. do-what-it-says
