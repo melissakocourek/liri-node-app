@@ -12,7 +12,7 @@ List of the commands that are used for this app.
 *Venue location
 *Date of the Event (use moment to format this as "MM/DD/YYYY")
 
-#1.spotify-this-song
+## 1.spotify-this-song
 This will show the following information about the song in your terminal/bash window
 
 *Artist(s)
@@ -21,7 +21,7 @@ This will show the following information about the song in your terminal/bash wi
 *The album that the song is from
 
 
-# 1. movie-this
+## 1. movie-this
 
 This will output the following information to your terminal/bash window:
 * Title of the movie.
@@ -34,7 +34,7 @@ This will output the following information to your terminal/bash window:
 * Actors in the movie.
 
 
-#1do-what-it-says
+## 1. do-what-it-says
 node liri.js do-what-it-says
 LIRI Bot will run spotify-this-song for I Want it That Way. It reads the file random.txt and processes the commands in it (spotify-this-song, I Want it That Way) and runs it.
 
