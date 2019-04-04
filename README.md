@@ -27,9 +27,9 @@ This will show the following information about the song in your terminal/bash wi
 * A preview link of the song from Spotify
 * The album that the song is from
 
-![GitHub Logo](liri-node-app/images/spotify-this.png)
-Format: ![Alt Text](url)
-(spotify-this.png)
+![GitHub Logo](https://user-images.githubusercontent.com/46450079/55567435-45225480-56c3-11e9-9cbc-092f972b9c00.png)
+
+Video:
 https://drive.google.com/file/d/1cw_ZowqNajcQe9R8UpIJUqefWrBMoP0g/view?usp=sharing
 
 
