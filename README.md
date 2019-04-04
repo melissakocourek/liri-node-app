@@ -5,14 +5,14 @@ This is a command line app that queries the spotify API, OMDB API and Bands in T
 ## Commands
 List of the commands that are used for this app. 
 
-## concert-this
+## 1.concert-this
  node liri.js concert-this <artist/band name here>
  This will search the Bands in Town Artist Events API for an for an artist and render the following information about each event to the terminal:
 *Name of the venue
 *Venue location
 *Date of the Event (use moment to format this as "MM/DD/YYYY")
 
-## 1.spotify-this-song
+## 2.spotify-this-song
 This will show the following information about the song in your terminal/bash window
 
 *Artist(s)
@@ -21,7 +21,7 @@ This will show the following information about the song in your terminal/bash wi
 *The album that the song is from
 
 
-## 1. movie-this
+## 3. movie-this
 
 This will output the following information to your terminal/bash window:
 * Title of the movie.
@@ -34,7 +34,7 @@ This will output the following information to your terminal/bash window:
 * Actors in the movie.
 
 
-## 1. do-what-it-says
+## 4. do-what-it-says
 node liri.js do-what-it-says
 LIRI Bot will run spotify-this-song for I Want it That Way. It reads the file random.txt and processes the commands in it (spotify-this-song, I Want it That Way) and runs it.
 
