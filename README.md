@@ -21,7 +21,7 @@ This will show the following information about the song in your terminal/bash wi
 *The album that the song is from
 
 
-#1.movie-this
+# 1. movie-this
 
 This will output the following information to your terminal/bash window:
 * Title of the movie.
